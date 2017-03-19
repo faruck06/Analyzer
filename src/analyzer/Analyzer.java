@@ -16,6 +16,7 @@ public class Analyzer {
      */
     public static void main(String[] args) {
         System.out.println("Hola Faruck");
+        System.out.println("Faruckkk");
     }
     
 }
